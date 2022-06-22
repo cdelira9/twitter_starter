@@ -3,7 +3,7 @@ export const codepathUserProfile = {
   handle: "codepath",
   numTweets: 1299,
   numFollowers: 2500000,
-}
+};
 
 export const firstTweet = {
   id: 0,
@@ -13,7 +13,7 @@ export const firstTweet = {
   comments: 445,
   retweets: 121,
   likes: 165000,
-}
+};
 
 export const sampleNewTweet = {
   id: -1,
@@ -23,11 +23,11 @@ export const sampleNewTweet = {
   comments: 3,
   retweets: 0,
   likes: 19,
-}
+};
 
 export const navLinks = [
   { label: "Home", icon: "fas fa-home", className: "nav-link active" },
   { label: "Moments", icon: "fas fa-bolt", className: "nav-link" },
   { label: "Notifications", icon: "far fa-bell", className: "nav-link" },
   { label: "Messages", icon: "far fa-envelope", className: "nav-link" },
-]
+];
